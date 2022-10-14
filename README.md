@@ -12,3 +12,8 @@
 ## First step
 - A good practice is to create a variable with the command to get the data-testid.
 - As in this example we are using cypress, we need to create the `const` in support > commands folder.
+
+## Find the element
+- `<div data-testid="custom-element" />`
+
+## Add the data testid
